@@ -9,5 +9,13 @@ public class Sample {
 		list.add("Krish");
 		list.add("Ajith");
 		list.add("Priya");
-		removeElements();
+		search();
+		
 	}
+
+	private static void search() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
