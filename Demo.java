@@ -10,7 +10,7 @@ public class Sample {
 		list.add("Ajith");
 		list.add("Priya");
 		search();
-		
+		addElements();
 	}
 
 	private static void search() {
@@ -18,4 +18,8 @@ public class Sample {
 		
 	}
 	
+	private static void addElements() {
+		// TODO Auto-generated method stub
+		
+	}
 }
